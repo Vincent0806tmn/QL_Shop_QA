@@ -2,7 +2,6 @@ D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\bin\Debug\Suon
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\bin\Debug\SuongSuon.exe
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\bin\Debug\SuongSuon.pdb
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.csproj.AssemblyReference.cache
-D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.Form1.resources
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.Properties.Resources.resources
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.csproj.GenerateResource.cache
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.csproj.CoreCompileInputs.cache

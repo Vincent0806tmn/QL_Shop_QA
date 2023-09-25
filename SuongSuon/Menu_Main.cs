@@ -24,5 +24,18 @@ namespace SuongSuon
             main_contain.Controls.Add(form_test);
             form_test.BringToFront();
         }
+
+        private void ctrl_VanChuyen_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ctrl_TaoDon_Click(object sender, EventArgs e)
+        {
+            TaoDonHang frmTaoDonHang = new TaoDonHang();
+            frmTaoDonHang.Dock = DockStyle.Fill;
+            main_contain.Controls.Add(frmTaoDonHang);
+            frmTaoDonHang.BringToFront();
+        }
     }
 }

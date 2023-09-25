@@ -129,6 +129,7 @@
             this.ctrl_TaoDon,
             this.ctrl_DS_DonHang,
             this.ctrl_TraHang});
+            this.ctrl_Donhang.Expanded = true;
             this.ctrl_Donhang.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("ctrl_Donhang.ImageOptions.SvgImage")));
             this.ctrl_Donhang.Name = "ctrl_Donhang";
             this.ctrl_Donhang.Text = "Đơn Hàng";
@@ -138,6 +139,7 @@
             this.ctrl_TaoDon.Name = "ctrl_TaoDon";
             this.ctrl_TaoDon.Style = DevExpress.XtraBars.Navigation.ElementStyle.Item;
             this.ctrl_TaoDon.Text = "Tạo đơn và giao hàng";
+            this.ctrl_TaoDon.Click += new System.EventHandler(this.ctrl_TaoDon_Click);
             // 
             // ctrl_DS_DonHang
             // 
@@ -163,6 +165,7 @@
             this.ctrl_VanChuyen.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("ctrl_VanChuyen.ImageOptions.SvgImage")));
             this.ctrl_VanChuyen.Name = "ctrl_VanChuyen";
             this.ctrl_VanChuyen.Text = "Vận chuyển";
+            this.ctrl_VanChuyen.Click += new System.EventHandler(this.ctrl_VanChuyen_Click);
             // 
             // ctrl_TQ_VChuyen
             // 

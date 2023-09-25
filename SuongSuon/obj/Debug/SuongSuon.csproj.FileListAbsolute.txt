@@ -30,3 +30,5 @@ D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\bin\Debug\DevE
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.Menu_Main.resources
 D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.csproj.CopyComplete
+D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.Form2.resources
+D:\Học trên Trường\hk5\dotNet\Đồ Án\SuongSuon\SuongSuon\obj\Debug\SuongSuon.UI.BC_BanHang.resources
